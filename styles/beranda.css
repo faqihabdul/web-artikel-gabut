@@ -1,0 +1,58 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    border-bottom: 3px solid gray;
+}
+
+.logo_title{
+    display: flex;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+}
+
+.logo_title img{
+    width: auto;
+    height: 60px;
+    padding-right: 15px;
+}
+
+.h2_judul{
+    font-size:  25px;
+}
+
+.ditulis{
+    font-size: 15px;
+}
+
+.penulis{
+    color: cadetblue;
+}
+
+.tanggal{
+    color: darkcyan;
+}
+
+.judul_asal_layangan{
+    font-size: 21px;
+}
+
+.judul_penemu_layangan{
+    font-size: 21px;
+}
+
+.momen_penemuan{
+    font-size: 21px;
+}
